@@ -81,7 +81,7 @@ The dataset (`shopping_data.csv`) should be placed in the project directory. Thi
     Rule 2: {Product C} -> {Product D} (Lift: 2.0)
     ...
     ```
-
+    
 ## Usage:
 Run the script after placing the `shopping_data.csv` file in the directory. The output will include statistical summaries, visualizations, and insights about customer behavior and product sales.
 
